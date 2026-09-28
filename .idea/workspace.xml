@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9325fbb8-b3b6-4f8e-8d00-707c4c6a3a02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Playwright103/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/Dashbord/DashboardFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/Dashbord/TestDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/checkout/CheckoutFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/checkout/TestCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/CsvDataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/CustomhasText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/Day6_2_CustomAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/Day6_3_CustomAssertionsUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/LoginFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/TestLoginFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/login/loginData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/logout/LogoutFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/src/test/java/Projectassgnment/logout/TestLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Playwright103/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/src/test/java/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/src/test/java/setup/GlobalAuthSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/src/test/java/setup/GlobalSetupTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/src/test/java/tests/DashbordTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sessionstoragedemo/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/setup/GlobalAuthSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/setup/GlobalSetupTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CheckoutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/DashbordTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LogoutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment1Headfull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment3_BrowserContexts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment5_DrivingLicenseLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playwrightassignment/src/test/java/Day1/Assignment6_LoginLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/assignment-9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/combine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/data-storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/decorator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/employee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/movie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/shape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/dist/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.bin/tsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.bin/tsc.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.bin/tsc.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.bin/tsserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.bin/tsserver.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.bin/tsserver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/ThirdPartyNoticeText.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/bin/tsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/bin/tsserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/_tsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/_tsserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/_typingsInstaller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.decorators.legacy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.dom.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.dom.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.dom.iterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.core.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.generator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.iterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.proxy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.reflect.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.symbol.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2016.array.include.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2016.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2016.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2016.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.arraybuffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.date.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.object.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2018.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.object.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2019.symbol.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.bigint.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.date.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.number.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2021.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2021.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2021.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2021.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2021.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2021.weakref.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.error.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.object.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2022.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2023.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2023.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2023.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2023.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2023.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.arraybuffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.object.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.sharedmemory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es2024.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es5.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.es6.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.disposable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.error.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.float16.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.iterator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.esnext.sharedmemory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.scripthost.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.webworker.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.webworker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/lib.webworker.iterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/tsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/tsserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/typesMap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/watchGuard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/node_modules/typescript/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-1.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-2.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-3.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-4.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-5.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-6.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-7.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-8.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/assignment-9.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/combine.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/data-storage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/decorator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/dummy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/employee.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/movie.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/project.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/shape.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/src/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assig1ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git Assig/javahh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practic/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practic/src/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practic/src/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practic/src/TestDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Revercestring/src/Revercstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReversestringTst/src/main/java/ReverceString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReversestringTst/src/test/java/teststring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/main/java/FOT/cdac/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/main/java/FOT/cdac/PrimeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/main/java/FOT/cdac/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/main/java/FOT/cdac/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/main/java/FOT/cdac/StudentRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/test/java/FOT/cdac/PrimeCheckerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/test/java/FOT/cdac/StringUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/test/java/FOT/cdac/jj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamental_of_testing/src/test/java/FOT/cdac/uuu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multest/src/main/java/com/cdac/mathsutil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multest/src/test/java/com/cdac/mathsutilTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/CCST/Desktop/Sessondemo2" value="3Jwx7PEVxEolk6fcn5GXNNnUbQj" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nakulkk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/saurabhpatilsp-rgb/Le-Lo.git",
+    "accountId": "42d70574-33be-4ba6-962a-c48078a02959"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.993639938350948E-171" />
+      <entry key="S2" value="2.546565977896293E-43" />
+      <entry key="S5" value="1.0729243803813678E-17" />
+      <entry key="S10" value="4.2878109518272695E-9" />
+      <entry key="S30" value="0.0025277035581595165" />
+      <entry key="S60" value="0.07091673822072271" />
+      <entry key="M2" value="0.3769549573955219" />
+      <entry key="M5" value="1.1027910414979367" />
+      <entry key="M10" value="1.8258885741094224" />
+      <entry key="M15" value="2.2777366264053676" />
+      <entry key="M30" value="2.9529268529118564" />
+      <entry key="H1" value="3.417268281221427" />
+      <entry key="H2" value="3.6918494360909437" />
+      <entry key="H4" value="3.841450166805284" />
+      <entry key="D1" value="3.9729283811210894" />
+      <entry key="W1" value="3.9961164502503634" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000000000001712" />
+      <entry key="MS500" value="1.0027975684349835" />
+      <entry key="S2" value="1.259439427560139" />
+      <entry key="S5" value="1.7996960837572722" />
+      <entry key="S10" value="2.2422637032130357" />
+      <entry key="S30" value="2.8438181142174352" />
+      <entry key="S60" value="3.3981469531441553" />
+      <entry key="M2" value="4.566145953386079" />
+      <entry key="M5" value="6.7531672004752075" />
+      <entry key="M10" value="8.105752849011832" />
+      <entry key="M15" value="8.66730930509052" />
+      <entry key="M30" value="9.295931005667429" />
+      <entry key="H1" value="9.63797069308447" />
+      <entry key="H2" value="9.816412418495416" />
+      <entry key="H4" value="9.907553454709838" />
+      <entry key="D1" value="9.984500762234182" />
+      <entry key="W1" value="9.997783572074304" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.451809517630823E-9" />
+      <entry key="MS500" value="0.020306319643918543" />
+      <entry key="S2" value="0.42945133952148207" />
+      <entry key="S5" value="1.140554117898082" />
+      <entry key="S10" value="1.7877857049341193" />
+      <entry key="S30" value="2.6503716250368776" />
+      <entry key="S60" value="3.357919079606053" />
+      <entry key="M2" value="4.873316962598396" />
+      <entry key="M5" value="7.8167903636345315" />
+      <entry key="M10" value="9.908497904467824" />
+      <entry key="M15" value="10.928623546760365" />
+      <entry key="M30" value="12.240087898157316" />
+      <entry key="H1" value="13.050701339754966" />
+      <entry key="H2" value="13.50595312370005" />
+      <entry key="H4" value="13.747839050104322" />
+      <entry key="D1" value="13.957233610880923" />
+      <entry key="W1" value="13.993872053655943" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Jwx74VV9IBpOeYhWUgDmaDm1yt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/CCST/Desktop/Sessondemo2/testng.xml.executor": "Run",
+    "TestNG.CheckoutTests.completeCheckoutProcess.executor": "Run",
+    "TestNG.CheckoutTests.executor": "Run",
+    "TestNG.LogoutTests.logout.executor": "Debug",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/CCST/Desktop/Sessondemo2/src/main/java/FOT/cdac/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/CCST/Desktop/Sessondemo2/testng.xml">
+    <configuration name="C:/Users/CCST/Desktop/Sessondemo2/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sessondemo2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sessondemo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CheckoutTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTests.completeCheckoutProcess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sessondemo2" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CheckoutTests" />
+      <option name="METHOD_NAME" value="completeCheckoutProcess" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTests.logout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sessondemo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LogoutTests" />
+      <option name="METHOD_NAME" value="logout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/CCST/Desktop/Sessondemo2/testng.xml" />
+      <item itemvalue="TestNG.CheckoutTests" />
+      <item itemvalue="TestNG.LogoutTests.logout" />
+      <item itemvalue="TestNG.CheckoutTests.completeCheckoutProcess" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/CCST/Desktop/Sessondemo2/testng.xml" />
+        <item itemvalue="TestNG.LogoutTests.logout" />
+        <item itemvalue="TestNG.CheckoutTests.completeCheckoutProcess" />
+        <item itemvalue="TestNG.CheckoutTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9325fbb8-b3b6-4f8e-8d00-707c4c6a3a02" name="Changes" comment="" />
+      <created>1790585763699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790585763699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FOT/cdac/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

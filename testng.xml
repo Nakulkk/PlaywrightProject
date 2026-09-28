@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemo Automated Test Suite" parallel="false" verbose="2">
+
+    <test name="Global Setup Initialization">
+        <classes>
+            <class name="setup.GlobalSetupTestNG" />
+        </classes>
+    </test>
+
+    <test name="Regression Tests">
+        <classes>
+            <class name="tests.DashbordTests" />
+            <class name="tests.CheckoutTests" />
+            <class name="tests.LogoutTests"/>
+        </classes>
+    </test>
+
+</suite>
